@@ -1,2 +1,2 @@
 # gh-pages-test
-hoge
+github pages test
